@@ -1,4 +1,4 @@
-# go-strichliste: Go Bindings for the Strichliste API
+# strichliste-cli
 
 [![GoDoc](https://godoc.org/github.com/jktr/strichliste-cli?status.svg)](https://godoc.org/github.com/jktr/strichliste-cli)
 
